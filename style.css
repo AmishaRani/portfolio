@@ -1,0 +1,54 @@
+.heroimg{
+    height: 400px;
+    width: 400px;
+    border: 3px solid black;
+    padding: 5px;
+    /* overflow:hidden;  */
+    object-fit: cover;
+}
+
+
+/* about me */
+.aboutme{
+    /* height: 500px; */
+    background: url(https://images.unsplash.com/photo-1585076641399-5c06d1b3365f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGxhcHRvcCUyMHdpdGglMjBwbGFudHxlbnwwfHwwfHw%3D&w=1000&q=80) ;
+    background-color: rgba(0, 0, 0, 0.700);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size:  cover;
+
+}
+
+
+/* skills */
+.skillimg{
+    height: 200px;
+    object-fit: contain;
+}
+
+/* project */
+.project{
+    background-color: #efefef;
+}
+
+
+/* achivements */
+.achivements{
+    background: url(https://cdn-images-1.medium.com/fit/t/1600/480/0*7nkIZHk_sD20sUgo) ;
+    background-color: rgba(0, 0, 0, 0.600);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size:  cover;
+
+}
+.achive{
+    color: white;
+}
+
+
+
+/* contact me
+.contactme{
+    background-color: rgb(78, 76, 76);
+    color: white;
+} */
